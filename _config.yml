@@ -29,8 +29,8 @@ url: "https://mark-grayson1.github.io/" # the base hostname & protocol for your 
 github_username:  mark-grayson1
 
 # Build settings
-theme: minimal-mistakes-jekyll
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
 
